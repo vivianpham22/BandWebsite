@@ -1,9 +1,21 @@
 ﻿#firstHeading{
+   
+
     font-family: 'Sigmar One', cursive;
     text-align:center;
 }
 
+#secondHeading{
+   
+   
+    font-family: 'Megrim', cursive;
+    text-align:center;
+}
 
+body {
+    
+  
+}
 
 /* for nav */
 ul {
@@ -29,4 +41,8 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #111;
+}
+
+p{
+
 }

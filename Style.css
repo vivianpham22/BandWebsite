@@ -1,13 +1,28 @@
-﻿#firstHeading{
+﻿#firstHeading {
+
     
     font-family: 'Sigmar One', cursive;
     text-align:center;
 }
 
 
-body{
-    background-color:
+table {
+ 
+    font-family: 'Numans', sans-serif;
+    border-collapse: collapse;
+    border-style: hidden;
+    width: 100%;
+}
 
+td, th {
+    /* border: 1px solid black; */
+    border-bottom: 1px solid;
+    text-align: left;
+    padding: 3px;
+}
+
+tr:nth-child(even) {
+    background-color:white;
 }
  
 /* for nav */
